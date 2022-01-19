@@ -3,4 +3,4 @@
 ![image](https://user-images.githubusercontent.com/32182282/150223058-ccb8b1d4-43d0-47db-9dff-8dbd43332904.png)
 ![image](https://user-images.githubusercontent.com/32182282/150222756-f4e75f9e-4fa8-4f79-8ae2-f034d9fea335.png)
 
-<img src="https://user-images.githubusercontent.com/32182282/150222756-f4e75f9e-4fa8-4f79-8ae2-f034d9fea335.png" data-canonical-src="https://user-images.githubusercontent.com/32182282/150222756-f4e75f9e-4fa8-4f79-8ae2-f034d9fea335.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/32182282/150222756-f4e75f9e-4fa8-4f79-8ae2-f034d9fea335.png" width="100" height="100" />
